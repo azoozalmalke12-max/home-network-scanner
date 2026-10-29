@@ -1,0 +1,6 @@
+{
+  "subnet": null,
+  "top_ports": 100,
+  "timing": "T4",
+  "os_detect": false
+}

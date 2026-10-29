@@ -1,0 +1,5 @@
+scapy               # ARP scanning (Stage 1 discovery)
+python-nmap         # Nmap automation (Stage 2 + OS detect)
+jinja2              # HTML report templating (Stage 5)
+colorama            # colored CLI output (Windows-safe)
+pyfiglet            # ASCII-art banner title
